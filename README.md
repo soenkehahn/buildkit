@@ -112,7 +112,6 @@ BuildKit is used by the following projects:
 -   [Namespace](https://namespace.so)
 -   [Unikraft](https://unikraft.org)
 -   [DevZero](https://devzero.io)
--   [dacc](https://github.com/r2d4/dacc)
 
 ## Quick start
 
